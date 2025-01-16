@@ -32,6 +32,7 @@ const modalData = {
                 <source src="static/images/demo.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
+            <a href="https://drive.google.com/file/d/1QpzGSl5_P_SW49CBJUEM-pGs2CR5a0WA/view?usp=drive_link">Able to check the video here</a>
             <p>This robot prototype assists visually impaired commuters in navigating subway systems, providing real-time directions and updates using ROS technology.</p>
         `,
     },
@@ -52,6 +53,7 @@ const modalData = {
                 <source src="static/images/palletizing.mov" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
+            <a href="https://drive.google.com/file/d/1QpzGSl5_P_SW49CBJUEM-pGs2CR5a0WA/view?usp=drive_link">Able to check the video here</a>
             <p>The robotic arm stacks blocks based on their colors, and it discards blocks of a specific color - In this case, it's red.</p>
         `,
     },
