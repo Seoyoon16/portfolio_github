@@ -53,7 +53,7 @@ const modalData = {
                 <source src="static/images/palletizing.mov" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
-            <a href="https://drive.google.com/file/d/1QpzGSl5_P_SW49CBJUEM-pGs2CR5a0WA/view?usp=drive_link">Able to check the video here</a>
+            <a href="https://drive.google.com/file/d/1_bENobcRsk60QuWBflSIUhjFu9U8ySeR/view?usp=sharing">Able to check the video here</a>
             <p>The robotic arm stacks blocks based on their colors, and it discards blocks of a specific color - In this case, it's red.</p>
         `,
     },
